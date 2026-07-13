@@ -1,0 +1,2 @@
+I am building a landing page for a tech developer conference (DevConf 2026). I have attached a screenshot of the design. Right below the pricing section and directly above the dark footer, there is a placeholder box that says 'Something Missing? Generate a relevant section with AI.' 
+Analyze the page structure, its tech theme, and its position in the user journey. Suggest the most suitable section to fill this blank space, explain the idea and design layout I should use, and give a strategic explanation for why it belongs here.
